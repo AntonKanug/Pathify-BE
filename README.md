@@ -4,6 +4,7 @@ Route Planning Optimized
 React, Spring Boot, Java
 
 Click to watch demo
+
 [![Video Demo](https://img.youtube.com/vi/lE599IFsKck/hqdefault.jpg)](https://youtu.be/lE599IFsKck)
 
 https://pathify-map.web.app/
